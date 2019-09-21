@@ -36,3 +36,11 @@
 *.tlog
 *.tlog
 *.tlog
+*.lastbuildstate
+*.log
+*.idb
+*.pdb
+*.tlog
+*.lastbuildstate
+*.ilk
+*.opendb
